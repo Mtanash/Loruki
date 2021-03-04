@@ -579,3 +579,8 @@ pre {
   padding: 10px 15px;
   width: 100%;
 }
+
+.hidden {
+  visibility: hidden;
+  height: 0;
+}

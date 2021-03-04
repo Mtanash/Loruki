@@ -43,7 +43,12 @@
         </div>
         <div class="showcase-form flex card">
           <h2 class="heading">Request a Demo</h2>
-          <form>
+          <form name="contact" method="POST" data-netlify="true">
+            <p class="hidden">
+              <label
+                >Don’t fill this out if you’re human: <input name="bot-field"
+              /></label>
+            </p>
             <div class="form-input">
               <input type="text" name="name" placeholder="Name" required />
             </div>
