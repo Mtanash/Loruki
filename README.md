@@ -1,3 +1,3 @@
 # Loruki
 
-## Link for site preview: [Click here](https://wizardly-bassi-48d88b.netlify.app)
+## Link for site preview: [Click here](https://mtanash-loruki.netlify.app/)
