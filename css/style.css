@@ -470,6 +470,7 @@ body {
   .features-main,
   .features-sub-head {
     text-align: center;
+    height: auto;
   }
 
   .showcase .showcase-form {
@@ -500,6 +501,9 @@ body {
 
 /* Mobile */
 @media (max-width: 500px) {
+  /* .navbar {
+    height: 110px;
+  } */
 }
 
 /* Utilites */
